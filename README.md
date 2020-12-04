@@ -20,5 +20,8 @@ It will output
 ```
 
 The result can be used to calculate modular arithmetic:
-    59^(-1) ≡ 26 (mod 73)
-    73^(-1) ≡ -21 (mod 59)
+```bash
+59^(-1) ≡ 26 (mod 73)
+73^(-1) ≡ -21 (mod 59)
+```
+
